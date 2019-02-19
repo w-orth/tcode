@@ -1,0 +1,24 @@
+<svg width="20" height="23" viewBox="0 0 20 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>EditableLogotype</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-4526 381)">
+<g id="EditableLogotype">
+<g id="XMLID 26">
+<use xlink:href="#path0_fill" transform="translate(4526 -381)"/>
+</g>
+<g id="XMLID 27">
+<use xlink:href="#path0_fill" transform="translate(4532 -376)"/>
+</g>
+<g id="XMLID 25">
+<use xlink:href="#path0_fill" transform="translate(4538 -381)"/>
+</g>
+<g id="XMLID 24">
+<use xlink:href="#path1_fill" transform="translate(4544 -376)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2 0L 0 0L 0 18L 2 18L 2 0Z"/>
+<path id="path1_fill" d="M 2 0L 0 0L 0 13L 2 13L 2 0Z"/>
+</defs>
+</svg>
